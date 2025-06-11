@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Hey+There!+👋;I'm+Allwin+Romario+Fernando;AI%2FML+%26+Cloud+Developer" alt="Typing Animation" />
-  ![Profile Views](https://komarev.com/ghpvc/?username=allwinromario&color=blueviolet)
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Hey+There!+👋;I'm+Allwin+Romario)
 
 ---
 
