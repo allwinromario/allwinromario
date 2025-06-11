@@ -33,14 +33,14 @@
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/allwinromario/NeuroDetect">🧠 NeuroDetect</a></h3>
-      <p>AI-driven brain tumor detection (92% accuracy) using CNN on MRI scans.</p>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=allwinromario&repo=NeuroDetect&theme=radical" />
+      <h3><a href="https://github.com/allwinromario/NeuroDetect">☁️ AirQ</a></h3>
+      <p>Downscaling of Satellite based air quality map using AI/ML</p>
+      <link src="https://github.com/allwinromario/AirQ&theme=radical" />
     </td>
     <td width="50%">
       <h3><a href="https://github.com/allwinromario/LaughLab">😂 LaughLab</a></h3>
       <p>Meme recommendation engine | Runner-Up @ Blitz DSCE Hackathon.</p>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=allwinromario&repo=LaughLab&theme=radical" />
+      <link src="https://github.com/siddu015/LaughLab&theme=radical" />
     </td>
   </tr>
 </table>
