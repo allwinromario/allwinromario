@@ -37,7 +37,7 @@
       <p>Downscaling of Satellite based air quality map using AI/ML</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/siddu015/LaughLab">😂 LaughLab</a></h3>
+      <h3><a href="https://github.com/siddu015/LaughLab"> 😂 LaughLab</a></h3>
       <p>Meme recommendation engine | Runner-Up @ Blitz DSCE Hackathon.</p>
     </td>
   </tr>
