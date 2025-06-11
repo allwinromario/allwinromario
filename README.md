@@ -33,14 +33,12 @@
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/allwinromario/NeuroDetect">☁️ AirQ</a></h3>
+      <h3><a href="https://github.com/allwinromario/AirQ">☁️ AirQ</a></h3>
       <p>Downscaling of Satellite based air quality map using AI/ML</p>
-      <link src="https://github.com/allwinromario/AirQ&theme=radical" />
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/allwinromario/LaughLab">😂 LaughLab</a></h3>
+      <h3><a href="https://github.com/siddu015/LaughLab">😂 LaughLab</a></h3>
       <p>Meme recommendation engine | Runner-Up @ Blitz DSCE Hackathon.</p>
-      <link src="https://github.com/siddu015/LaughLab&theme=radical" />
     </td>
   </tr>
 </table>
