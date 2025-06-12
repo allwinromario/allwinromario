@@ -108,26 +108,6 @@
 
 ---
 
-### **🎯 Certifications**
-<div>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Coursera-Neural_Networks-0056D2?logo=coursera&logoColor=white&style=flat" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/IBM-Cloud_Professional-054ADA?logo=ibm&logoColor=white&style=flat" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Great_Learning-PySpark-FF6F00?style=flat" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Mevi-TensorFlow-FF6F00?style=flat" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Great_Learning-Big_Data-000000?style=flat" />
-  </a>
-</div>
-
----
 
 ### **🏆 Accomplishments**
 - 🥈 Runner Up @ Blitz DSCE Hackathon (Dec 2024)
