@@ -89,8 +89,8 @@
       <p>PySpark-based recommendation system with ALS algorithm</p>
     </td>
     <td width="50%">
-      <h3><a href="#">🧠 NeuroDetect</a></h3>
-      <p>AI-Driven Brain Tumor Detection with 92% accuracy</p>
+      <h3><a href="https://github.com/allwinromario/eprocurement.git">🗂️ E-Procurement System</a></h3>
+      <p>A modern e-procurement system for Dakshin Bharat Gateway Terminal Private Limited.</p>
     </td>
   </tr>
 </table>
