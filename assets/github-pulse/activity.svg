@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220">
+  <rect fill="#141321" width="800" height="220" rx="12"/>
+  <text x="400" y="105" fill="#e0e6ed" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" text-anchor="middle">Activity trend</text>
+  <text x="400" y="127" fill="#8b949e" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" text-anchor="middle">Authenticated contribution calendar</text>
+</svg>

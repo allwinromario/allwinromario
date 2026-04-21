@@ -1,0 +1,49 @@
+name: GitHub pulse
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily — contribution calendar can lag a few hours; refresh after UTC midnight
+    - cron: "37 4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-pulse
+  cancel-in-progress: true
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate private-aware pulse assets
+        env:
+          GH_STATS_PAT: ${{ secrets.GH_STATS_PAT }}
+        run: |
+          set -euo pipefail
+          if [ -z "${GH_STATS_PAT:-}" ]; then
+            echo "::warning title=Missing secret::Add repository secret GH_STATS_PAT (classic PAT: read:user + repo). See README GitHub pulse section."
+            exit 0
+          fi
+          python3 scripts/generate_github_pulse.py
+
+      - name: Commit and push updated SVGs
+        env:
+          GH_STATS_PAT: ${{ secrets.GH_STATS_PAT }}
+        run: |
+          set -euo pipefail
+          if [ -z "${GH_STATS_PAT:-}" ]; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-pulse/
+          if git diff --staged --quiet; then
+            echo "No pulse asset changes."
+            exit 0
+          fi
+          git commit -m "chore: refresh GitHub pulse metrics"
+          git push

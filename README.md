@@ -137,40 +137,42 @@
 
 ## GitHub pulse
 
+These cards are **generated in this repository** (not anonymous widget URLs) so they can use a **Personal Access Token** in Actions — the same authenticated GraphQL data as your profile calendar, **including private repositories** (and other contributions GitHub folds into your graph).
+
+**One-time setup:** create a **classic** PAT with **`read:user`** and **`repo`** → add it as repository secret **`GH_STATS_PAT`** → run **Actions → GitHub pulse → Run workflow**. The job refreshes the SVGs in [`assets/github-pulse/`](assets/github-pulse/) daily (or on demand).
+
+<details>
+<summary><strong>Why this replaces the old embeds</strong></summary>
+
+Public services (`github-readme-stats`, streak-stats, activity-graph, etc.) only see **public** contribution APIs. They cannot include private commits unless you **self-host** with a token. Here, the workflow calls `viewer { contributionsCollection { contributionCalendar { … } } }` with your PAT, then writes static SVGs your README loads from this repo.
+
+</details>
+
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=allwinromario&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12&title_color=22d3ee&icon_color=a855f7"
-    alt="GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://streak-stats.demolab.com/?user=allwinromario&theme=radical&hide_border=true&border_radius=12&ring=22d3ee&fire=ec4899&currStreakLabel=Current%20streak"
-    alt="Streak"
-  />
+  <img height="195" src="assets/github-pulse/stats.svg" alt="GitHub profile summary" />
+  <img height="195" src="assets/github-pulse/streak.svg" alt="Contribution streaks" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwinromario&layout=donut&theme=radical&hide_border=true&border_radius=12&langs_count=8&title_color=22d3ee"
-    alt="Languages"
-  />
+  <img src="assets/github-pulse/langs.svg" alt="Languages across owned repositories" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=allwinromario&theme=redical&hide_border=true&area=true&radius=12&custom_title=Activity%20(last%20year)"
-    alt="Activity"
-    width="98%"
-  />
+  <img src="assets/github-pulse/activity.svg" alt="Contribution activity trend" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/github-pulse/heatmap.svg" alt="Contribution heatmap" width="100%" />
 </p>
 
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=allwinromario&theme=radical&no-frame=true&row=1&column=7&margin-w=6&margin-h=6"
-    alt="Trophies"
+    alt="Profile trophies (achievements)"
   />
 </p>
+
+<p align="center"><sub><code>meta.json</code> in <code>assets/github-pulse/</code> updates with each generation.</sub></p>
 
 ---
 
