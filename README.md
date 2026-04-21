@@ -1,50 +1,51 @@
-<!-- ═══ Animated header (wave + gradient) — renders live on GitHub ═══ -->
+<!-- Header: animated wave + gradient (Capsule Render) -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=200&section=header&text=Allwin%20Romario&fontSize=40&fontColor=f8fafc&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20Data%20%26%20Distributed%20Systems%20%E2%80%A2%20Full-Stack&descSize=15&descAlignY=54&descAlign=62&animation=twinkling"
-    alt="Animated header — Allwin Romario"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,40:7c3aed,100:d946ef&height=210&section=header&text=Allwin%20Romario&fontSize=42&fontColor=f8fafc&fontAlignY=35&desc=Distributed%20systems%20%E2%80%A2%20ML%20%26%20analytics%20%E2%80%A2%20Full-stack&descSize=14&descAlignY=53&descAlign=62&animation=twinkling"
+    alt=""
     width="100%"
   />
 </div>
 
-<!-- ═══ Typing tagline ═══ -->
+<!-- Typing taglines -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%94%AD+Turning+data+into+decisions;%E2%9A%A1+Shipping+models+%2B+pipelines+that+scale;%F0%9F%8C%8D+Open+source+%E2%80%A2+Hackathons+%E2%80%A2+Collaboration"
-    alt="Typing animation — taglines"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=125&duration=2800&lines=%F0%9F%A7%AD+Research-to-production+pipelines;%E2%9A%A1+PySpark%2C+PyTorch%2C+and+cloud-native+stacks;%F0%9F%A4%9D+Hackathons+%E2%80%A2+mentorship+%E2%80%A2+open+source"
+    alt=""
   />
 </p>
 
-<!-- ═══ Quick stats row ═══ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=allwinromario&label=Profile%20views&color=0e7490&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/allwinromario?label=Followers&style=for-the-badge&color=581c87&labelColor=1e1b4b" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Focus-ML%20%2F%20Data%20%2F%20Cloud-0f172a?style=for-the-badge&logo=anaconda&logoColor=22d3ee" alt="Focus areas" />
+  <img src="https://komarev.com/ghpvc/?username=allwinromario&label=visits&color=0e7490&style=for-the-badge" alt="" />
+  <img src="https://img.shields.io/github/followers/allwinromario?label=followers&style=for-the-badge&color=581c87&labelColor=1e1b4b" alt="" />
+  <img src="https://img.shields.io/badge/stack-ML+%C2%B7+Data+%C2%B7+Cloud-0f172a?style=for-the-badge&logo=anaconda&logoColor=22d3ee" alt="" />
 </p>
 
 <p align="center">
+  <a href="https://github.com/allwinromario?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
   <a href="https://github.com/allwinromario">
-    <img src="https://img.shields.io/badge/GitHub-allwinromario-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" />
   </a>
   <a href="mailto:allwin.romario@gmail.com">
-    <img src="https://img.shields.io/badge/Email-allwin.romario%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/email-allwin.romario-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/v-allwin-fernando">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <br />
 
-<!-- ═══ About + avatar ═══ -->
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="120" align="center">
-      <img src="https://github.com/allwinromario.png" width="100" alt="Avatar" style="border-radius: 50%;" />
+    <td width="140" align="center" valign="top">
+      <img src="https://github.com/allwinromario.png" width="112" alt="" style="border-radius: 50%;" />
     </td>
-    <td>
+    <td valign="top">
       <p align="left">
-        I work at the intersection of <strong>machine learning</strong>, <strong>data engineering</strong>, and <strong>products that ship</strong> — from PySpark pipelines and cloud deploys to React frontends. I care about clear evaluation, reproducible workflows, and tooling that teams can actually maintain.
+        I design and ship end-to-end data systems: experimentation and modeling, batch and streaming pipelines, and the interfaces and infra around them. I’m strongest where <strong>measurable impact</strong>, <strong>reproducible workflows</strong>, and <strong>maintainable code</strong> have to meet.
       </p>
     </td>
   </tr>
@@ -54,18 +55,17 @@
 
 ---
 
-## Stack snapshot
+## Toolkit
 
-<!-- Skill icons — compact, high-signal -->
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,java,cpp,js,ts,react,nodejs,express,flask,aws,gcp,docker,terraform,mysql,mongodb,git&perline=10"
+    src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,java,cpp,js,ts,react,nodejs,express,flask,aws,gcp,docker,terraform,mysql,mongodb,git&perline=10&theme=dark"
     alt="Skills"
   />
 </p>
 
 <details>
-<summary><strong>Expand full tech map</strong> (badges)</summary>
+<summary><strong>Full stack map</strong> — badges</summary>
 <br />
 
 **AI / ML & data**
@@ -125,30 +125,13 @@
 
 ---
 
-## Featured projects
+## Highlights
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/allwinromario/AirQ">☁️ AirQ</a></h3>
-      <p>Downscaling satellite-based air quality maps with ML — sharper local estimates from remote sensing.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/siddu015/LaughLab">😂 LaughLab</a></h3>
-      <p>Meme recommendation engine · <strong>Runner-Up</strong> @ Blitz DSCE Hackathon.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="#">🎬 Movie recommendation</a></h3>
-      <p>PySpark + ALS collaborative filtering — batch recommendations at scale.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/allwinromario/eprocurement">🗂️ E-Procurement</a></h3>
-      <p>Modern procurement workflow for Dakshin Bharat Gateway Terminal Private Limited.</p>
-    </td>
-  </tr>
-</table>
+| | |
+| :--- | :--- |
+| 🥈 | **Runner-up** — Blitz DSCE Hackathon · *Dec 2024* |
+| 🧑‍🏫 | **Volunteer** — HaceVerse ’25 |
+| 🤝 | **Open source** — 5+ projects contributed |
 
 ---
 
@@ -157,60 +140,46 @@
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=allwinromario&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12"
+    src="https://github-readme-stats.vercel.app/api?username=allwinromario&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12&title_color=22d3ee&icon_color=a855f7"
     alt="GitHub stats"
   />
   <img
     height="165"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=allwinromario&theme=radical&hide_border=true&border_radius=12"
-    alt="Contribution streak"
+    src="https://streak-stats.demolab.com/?user=allwinromario&theme=radical&hide_border=true&border_radius=12&ring=22d3ee&fire=ec4899&currStreakLabel=Current%20streak"
+    alt="Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwinromario&layout=donut&theme=radical&hide_border=true&border_radius=12&langs_count=8"
-    alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwinromario&layout=donut&theme=radical&hide_border=true&border_radius=12&langs_count=8&title_color=22d3ee"
+    alt="Languages"
   />
 </p>
 
-<!-- Contribution activity — line “motion” updates with your commits -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=allwinromario&theme=redical&hide_border=true&area=true&radius=12&custom_title=Contribution%20activity%20(last%20year)"
-    alt="Contribution activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=allwinromario&theme=redical&hide_border=true&area=true&radius=12&custom_title=Activity%20(last%20year)"
+    alt="Activity"
     width="98%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=allwinromario&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"
-    alt="GitHub trophies"
+    src="https://github-profile-trophy.vercel.app/?username=allwinromario&theme=radical&no-frame=true&row=1&column=7&margin-w=6&margin-h=6"
+    alt="Trophies"
   />
 </p>
 
 ---
 
-## Accomplishments
-
-| | |
-| :--- | :--- |
-| 🥈 | **Runner-Up** — Blitz DSCE Hackathon *(Dec 2024)* |
-| 🧑‍🏫 | **Volunteer** — HaceVerse ’25 Hackathon |
-| 📊 | **Open source** — contributions across 5+ projects |
-
----
-
-<!-- Footer wave (bookend to header) -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:06b6d4&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=f8fafc&animation=twinkling"
-    alt="Footer wave"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:d946ef,50:7c3aed,100:0891b2&height=115&section=footer&text=Catch%20you%20on%20the%20next%20commit&fontSize=22&fontColor=f8fafc&animation=twinkling"
+    alt=""
     width="100%"
   />
 </div>
 
-<p align="center">
-  <sub>Built with README widgets · Capsule Render · Typing SVG · Stats · Activity graph</sub>
-</p>
+<p align="center"><sub>README · Capsule Render · Typing SVG · Stats</sub></p>
