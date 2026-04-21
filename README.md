@@ -148,21 +148,22 @@ Public services (`github-readme-stats`, streak-stats, activity-graph, etc.) only
 
 </details>
 
+<!-- Profile README does not resolve relative image paths reliably; use raw.githubusercontent.com -->
 <p align="center">
-  <img height="195" src="assets/github-pulse/stats.svg" alt="GitHub profile summary" />
-  <img height="195" src="assets/github-pulse/streak.svg" alt="Contribution streaks" />
+  <img height="195" src="https://raw.githubusercontent.com/allwinromario/allwinromario/main/assets/github-pulse/stats.svg" alt="GitHub profile summary" />
+  <img height="195" src="https://raw.githubusercontent.com/allwinromario/allwinromario/main/assets/github-pulse/streak.svg" alt="Contribution streaks" />
 </p>
 
 <p align="center">
-  <img src="assets/github-pulse/langs.svg" alt="Languages across owned repositories" />
+  <img src="https://raw.githubusercontent.com/allwinromario/allwinromario/main/assets/github-pulse/langs.svg" alt="Languages across owned repositories" />
 </p>
 
 <p align="center">
-  <img src="assets/github-pulse/activity.svg" alt="Contribution activity trend" width="100%" />
+  <img src="https://raw.githubusercontent.com/allwinromario/allwinromario/main/assets/github-pulse/activity.svg" alt="Contribution activity trend" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/github-pulse/heatmap.svg" alt="Contribution heatmap" width="100%" />
+  <img src="https://raw.githubusercontent.com/allwinromario/allwinromario/main/assets/github-pulse/heatmap.svg" alt="Contribution heatmap" width="100%" />
 </p>
 
 <p align="center">
