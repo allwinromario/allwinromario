@@ -9,10 +9,10 @@
   <text x="20" y="32" fill="url(#g)" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="600">GitHub · allwinromario</text>
   <text x="20" y="52" fill="#8b949e" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11">Includes private contributions (authenticated API)</text>
   <g fill="#e0e6ed" font-family="ui-monospace,Menlo,monospace" font-size="13">
-    <text x="20" y="90"><tspan fill="#22d3ee">●</tspan> Followers  <tspan fill="#a855f7">3</tspan></text>
+    <text x="20" y="90"><tspan fill="#22d3ee">●</tspan> Followers  <tspan fill="#a855f7">4</tspan></text>
     <text x="20" y="112"><tspan fill="#22d3ee">●</tspan> Following  <tspan fill="#a855f7">4</tspan></text>
     <text x="20" y="134"><tspan fill="#22d3ee">●</tspan> Repos (owner)  <tspan fill="#a855f7">16</tspan></text>
-    <text x="20" y="156"><tspan fill="#22d3ee">●</tspan> Commits (window)  <tspan fill="#a855f7">313</tspan></text>
+    <text x="20" y="156"><tspan fill="#22d3ee">●</tspan> Commits (window)  <tspan fill="#a855f7">315</tspan></text>
     <text x="20" y="178"><tspan fill="#22d3ee">●</tspan> Issues / PRs / Reviews  <tspan fill="#a855f7">0 / 2 / 0</tspan></text>
   </g>
 </svg>
