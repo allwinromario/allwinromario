@@ -334,5 +334,6 @@
   <rect x="526" y="99" width="10" height="10" rx="2" fill="#161b22"/>
   <rect x="526" y="110" width="10" height="10" rx="2" fill="#0e4429"/>
   <rect x="537" y="44" width="10" height="10" rx="2" fill="#161b22"/>
-  <rect x="537" y="55" width="10" height="10" rx="2" fill="#161b22"/>
+  <rect x="537" y="55" width="10" height="10" rx="2" fill="#0e4429"/>
+  <rect x="537" y="66" width="10" height="10" rx="2" fill="#161b22"/>
 </svg>
